@@ -1,1 +1,0 @@
-from .qmc_func import *
